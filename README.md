@@ -27,16 +27,16 @@ Historical trip data was made available by Motivate International Inc., this pro
 
 **LIBRARIES USED FOR THE PROJECT**
 
-python
-SQL
-pandas as pd
-numpy as ny
-matplotlib.pyplot as plt
-seaborn as sns
+python,
+SQL,
+pandas as pd,
+numpy as NY,
+matplotlib.pyplot as plt,
+seaborn as sns.
 
 **SHARE STAGE**
 
-After the data has been analyzed it is shared using R and Tableau which enhances better visualization, understanding, and presentation. more Tableau viz can be viewed here.
+After the data has been analyzed it is shared using Python and Tableau which enhances better visualization, understanding, and presentation. more Tableau viz can be viewed here.
 
 **ACT STAGE**
 
