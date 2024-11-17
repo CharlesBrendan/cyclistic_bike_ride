@@ -33,3 +33,19 @@ pandas as pd
 numpy as ny
 matplotlib.pyplot as plt
 seaborn as sns
+
+**SHARE STAGE**
+
+After the data has been analyzed it is shared using R and Tableau which enhances better visualization, understanding, and presentation. more Tableau viz can be viewed here.
+
+**ACT STAGE**
+
+The casual riders use bikes more than the annual members.
+
+The annual members have almost constant usage of bikes throughout the week.
+
+The bike usage by the users is highest during the summer period, especially in the month of May through September.
+
+**RECOMMENDATION**
+
+There should be a subsidy/priority for the annual members to encourage casual riders to become annual members. The stations with the most ride duration should be a top priority and more innovative and user-friendly bikes should be used for the annual members, this will also make the casual riders want an annual membership. Free day ride for the annual members can also entice the casual riders to be annual members
