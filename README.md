@@ -23,5 +23,5 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 **Prepare stage**
 
-Historical trip data was made available by Motivate International Inc., this project is licensed under the [license](https://github.com/CharlesBrendan/cyclistic_bike_ride/tree/main#:~:text=Inc.%20under%20this-,license,-.%20The%20Cyclistic%20bike). The Cyclistic bike data is public data and I have to select 12 months data starting from May 2021 to April 2022 for the analysis [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) here.. After loading the data I looked at the structure of the data, and merged all the different month's data to have a single data called Twelve_Month_data.
+Historical trip data was made available by Motivate International Inc., this project is licensed under the [license](https://github.com/CharlesBrendan/cyclistic_bike_ride/tree/main#:~:text=Inc.%20under%20this-,license,-.%20The%20Cyclistic%20bike). The Cyclistic bike data is public data and I have to select 12 months data starting from May 2021 to April 2022 for the analysis [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) was downloaded here. After loading the data I looked at the structure of the data, and merged all the different month's data to have a single data called Twelve_Month_data.
 
