@@ -48,4 +48,9 @@ The bike usage by the users is highest during the summer period, especially in t
 
 **RECOMMENDATION**
 
-There should be a subsidy/priority for the annual members to encourage casual riders to become annual members. The stations with the most ride duration should be a top priority and more innovative and user-friendly bikes should be used for the annual members, this will also make the casual riders want an annual membership. Free day ride for the annual members can also entice the casual riders to be annual members
+There should be a subsidy/priority for the annual members to encourage casual riders to become annual members. The stations with the most ride duration should be a top priority and more innovative and user-friendly bikes should be used for the annual members, this will also make the casual riders want an annual membership. Free day rides for the annual members can also entice casual riders to be annual members.
+Tailor promotional campaigns around casual users’ existing behaviors like promoting membership benefits for weekend riders.
+
+Offer incentives like priority access to bikes, free or discounted additional time, and perks like free helmet rentals to members, this will entice casual riders to become members.
+Run "Convert to Member" campaigns at the start of peak riding seasons, emphasizing the value of unlimited rides.
+
